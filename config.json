@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri":"mysql://root:@localhost/coding",
+    "prod_uri": "mysql://root:@localhost/coding",
+    "fb_url": "https://facebook.com/learncoding",
+    "tw_url": "https://twitter.com/learncoding",
+    "gh_url": "https://github.com/learncoding",
+    "blog_name": "learn coding",
+    "tag_line": "learn coding be a smart programmer",
+    "gmail-user": "princyk86@gmail.com",
+    "gmail-password": "Swayam@123",
+    "about_site": "someting new",
+    "no_of_post": 15,
+    "admin-user": "Princy",
+    "admin-password": "Princy@123"
+
+  }
+
+}
